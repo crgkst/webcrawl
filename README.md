@@ -1,5 +1,11 @@
 # WebCrawl - A Simple Python Web Crawler Project
 
+<p align=center>
+<a href="https://ibb.co/dLq5Bwm">
+  <img src="https://i.ibb.co/HxsH7fh/Screenshot-2024-08-08-at-5-13-15-PM.png" alt="Network Graph" border="0">
+</a>
+</p>
+
 WebCrawl is a simple web crawler project that consists of three components: a Python web crawler, a Python Streamlit UI application, and a MySQL database. All components run in Docker containers, making it easy to set up and run the project.
 
 ## Components
