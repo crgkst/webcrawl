@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+sqlalchemy
+mysqlclient
+tenacity
+tld==0.12.6

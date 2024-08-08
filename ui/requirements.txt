@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+mysqlclient
+pandas
+networkx
+pyvis
+tld==0.12.6
